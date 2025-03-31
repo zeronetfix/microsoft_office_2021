@@ -4,7 +4,7 @@ Download Pre Activated Microsoft Office 2021 By Zeronetfix
 
 # Microsoft Office 2021 Installation Guide
 
-This repository provides a comprehensive guide to installing **Microsoft Office 2021** on your machine. The instructions below are designed to help you download, extract, and install Microsoft Office using the official channels and methods.
+This repository provides a comprehensive guide to installing **Microsoft Office 2021** on your machine. The instructions below are designed to help you download, extract, and install Microsoft Office.
 
 ## Key Features:
 - **User Interface Improvements**: A fresh, modern design for ease of use.
