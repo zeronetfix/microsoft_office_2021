@@ -13,7 +13,6 @@ This repository provides a comprehensive guide to installing **Microsoft Office 
 - **PowerPoint Advancements**: Presenter Coach and new inking features.
 - **Outlook Features**: Improved inbox, search, and calendar management.
 - **Improved Accessibility**: Better support for voice access and screen readers.
-- **Windows & Mac Compatibility**: Available for both platforms.
 
 ## Prerequisites:
 Before installing Microsoft Office 2021, make sure that you meet the following system requirements:
